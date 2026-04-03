@@ -28,8 +28,8 @@
   - [ ] Consequences/trade-offs
 
 ## Updated Assessment 1 documents
-- [ ] Group contract included as Markdown file
-- [ ] Project plan included as Markdown file
+- [x] Group contract included as Markdown file
+- [x] Project plan included as Markdown file
 - [ ] Both documents updated from Assessment 1 where needed
 
 ## Supplementary materials
