@@ -25,7 +25,7 @@
   - [ ] Alternatives considered
   - [ ] Decision
   - [ ] Code reference with exact file paths and line numbers
-  - [ ] Consequences / trade-offs
+  - [ ] Consequences/trade-offs
 
 ## Updated Assessment 1 documents
 - [ ] Group contract included as Markdown file
