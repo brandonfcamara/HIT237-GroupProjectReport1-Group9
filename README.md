@@ -39,7 +39,7 @@
 - [ ] Other supporting evidence of human design thinking included
 
 ## Technical requirements
-- [ ] requirements.txt included
+- [x] requirements.txt included
 - [ ] Repository has clear instructions to run the project
 - [ ] No unnecessary files included
 - [ ] File/folder structure is organised and easy to follow
