@@ -15,8 +15,8 @@
 - [ ] Class-based views are implemented
 
 ## ADR documentation
-- [ ] ADR file exists in Markdown format
-- [ ] ADR updated throughout development
+- [x] ADR file exists in Markdown format
+- [x] ADR updated throughout development
 - [ ] Each major design decision has its own entry
 - [ ] Each ADR entry includes:
   - [ ] Title
